@@ -1,0 +1,11 @@
+# --- Core RAG and LLM Libraries ---
+langchain-core
+langchain-community
+langchain-huggingface
+python-dotenv
+pydantic>=2.0.0
+numpy<2
+faiss-cpu         
+pypdf              
+fastapi
+uvicorn
